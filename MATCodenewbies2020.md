@@ -8,7 +8,7 @@
     - Github : 
     - Linkedin :
 
-3. **finaritrandr**
-    - Codesignal : [finaritrandr](https://app.codesignal.com/profile/finaritrandr)
+3. **amarolahy (Experienced programmer category)**
+    - Codesignal : [amarolahy](https://app.codesignal.com/profile/amarolahy)
     - Github : 
     - Linkedin :
