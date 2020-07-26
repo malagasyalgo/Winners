@@ -1,6 +1,7 @@
 ## MAT for Division 1
-   - [Link](./Division1/MAT2019.md)
-
+   - [MAT2019](./Division1/MAT2019.md)
+   - [MAT2020](./Division1/MAT2020.md)
    
 ## MAT for Division 2
-   [Division2](https://github.com/malagasyalgo/Winners/tree/master/Division2)
+   - [MATCodenewbies2020](./Division2/MATCodenewbies2020.md)
+   - [MATCodenewbiesEPC2020(Experimented Programmers)](./Division2/MATCodenewbiesEPC2020.md)
